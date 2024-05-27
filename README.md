@@ -32,8 +32,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [Uniswap](https://uniswap.org/) for providing the decentralized exchange protocol.
 - Inspiration and guidance from the Ethereum and blockchain developer community.
 
-## Contact
 
-For questions or inquiries about this project, please contact [Linkedin](https://www.linkedin.com/in/aiman-ibn-ubayd-851216291/).
 
 CustomDex: 0xA171D3bFa31bfcDD2422A4E7Ee622dd84311589E
